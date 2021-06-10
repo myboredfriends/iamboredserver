@@ -1,0 +1,13 @@
+###
+
+GET http://localhost:8080/get-friend?id=David
+
+GET http://localhost:8080/get-friend?id=Blaubart
+GET http://localhost:8080/get-friend?id=Jan
+GET http://localhost:8080/get-friend?id=Jakob
+
+<> 2021-06-11T014522.200.txt
+
+GET http://localhost:8080/register-friend?id=Jakob
+
+###
